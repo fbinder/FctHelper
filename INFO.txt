@@ -1,0 +1,4 @@
+Copy the +bnd directory into your active workspace or add to the search path.
+After that, initializing and object can be done by:
+
+objectName = bnd.FctHelper();
